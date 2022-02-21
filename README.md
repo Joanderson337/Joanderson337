@@ -4,7 +4,7 @@
 
 <h3> Personal Stuffs </h3>
 
-- 🧑‍💻 I currently study 
+- 🧑‍💻 I am student 
 - 🏠 I'm from João Pessoa, PB - Brasil
 - 📫 How to reach me: jhonny_040996@hotmail.com
 
