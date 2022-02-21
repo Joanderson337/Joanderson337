@@ -1,6 +1,13 @@
-# Hey 👋
+<h1 align = "center"> Hi everyone 👋, I'm Joanderson</h1>
 
-My name is Joanderson Silva 🇧🇷
+<img align="right" alt="GIF" width="450px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<h3> Personal Stuffs </h3>
+
+- 🧑‍💻 I currently study 
+- 🏠 I'm from João Pessoa, PB - Brasil
+- 📫 How to reach me: jhonny_040996@hotmail.com
+
 
 <div>
   <a href="https://github.com/Joanderson337">
