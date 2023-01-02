@@ -5,7 +5,7 @@
 <h3> Personal Stuffs </h3>
 
 - 🧑‍💻 I am developer
-- 🏠 I'm from João Pessoa, PB - Brasil
+- 🏠 I'm from Pedras de Fogo, PB - Brasil
 - 📫 How to reach me: jhonny_040996@hotmail.com
 
 <h3> Technologies </h3>
@@ -16,6 +16,9 @@
   <img align="center" alt="Jon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="Jon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+   <img align="center" alt="Jon-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/77758027/210029739-747a82a8-b0bf-4db9-98aa-7962da71d27f.png">
 </div>
 
 <hr>
