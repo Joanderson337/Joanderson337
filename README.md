@@ -22,7 +22,6 @@
 </div>
 
 <hr>
-
 <div>
   <a href="https://github.com/Joanderson337">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joanderson337&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
