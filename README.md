@@ -19,7 +19,10 @@
   <img align="center" alt="Jon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="Jon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
    <img align="center" alt="Jon-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/77758027/210029739-747a82a8-b0bf-4db9-98aa-7962da71d27f.png">
-  <img height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+  
+            <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          
 </div>
 
 <hr>
